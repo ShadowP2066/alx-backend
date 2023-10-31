@@ -2,7 +2,7 @@
 
 `Back-end`
 
-![meme](./images/meme.jpeg)
+![meme](./91e1c50322b2428428f9.jpg)
 
 ## Resources
 

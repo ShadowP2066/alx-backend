@@ -2,7 +2,7 @@
 
 `Back-end` `JavaScript` `ES6` `Redis` `NodeJS` `ExpressJS Kue`
 
-![meme](./meme)
+![meme](./meme.png)
 
 ## Resources
 
